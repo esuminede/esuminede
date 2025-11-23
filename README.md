@@ -46,25 +46,51 @@ I love exploring how AI can be integrated into practical systems — especially 
 ## 🛠️ Skills
 
 ### **Programming**
-`Python` · `C` · `C++` · `HTML` · `CSS` · `JavaScript`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### **AI / ML**
-`LLMs` · `Chatbots` · `RAG Systems`  
-`Faiss / Qdrant` · `Vector Databases`
+![LLMs](https://img.shields.io/badge/LLMs-800080?style=for-the-badge)
+![Chatbots](https://img.shields.io/badge/Chatbots-008080?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-4B0082?style=for-the-badge)
+![Faiss](https://img.shields.io/badge/Faiss-2E8B57?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4500?style=for-the-badge&logo=qdrant&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-696969?style=for-the-badge)
+
+---
 
 ### **Networking**
-`Cisco Packet Tracer` · `Routing & Switching`  
-`OSI Model` · `TCP/IP` · `Subnetting`  
-`Network Attack & Defense` · `Vulnerability Assessment`
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Routing Switching](https://img.shields.io/badge/Routing_&_Switching-006699?style=for-the-badge)
+![OSI Model](https://img.shields.io/badge/OSI_Model-444444?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0A66C2?style=for-the-badge)
+![Network Defense](https://img.shields.io/badge/Network_Attack_&_Defense-8B0000?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-FF8C00?style=for-the-badge)
+
+---
 
 ### **Security**
-`Cryptography` · `Security Protocols`  
-`Linux Security` · `Penetration Testing Basics`
+![Cryptography](https://img.shields.io/badge/Cryptography-6A5ACD?style=for-the-badge)
+![Security Protocols](https://img.shields.io/badge/Security_Protocols-2F4F4F?style=for-the-badge)
+![Linux Security](https://img.shields.io/badge/Linux_Security-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Pentesting Basics](https://img.shields.io/badge/Penetration_Testing_Basics-8A2BE2?style=for-the-badge)
+
+---
 
 ### **Tools**
-`Linux` · `Flask` · `Git / GitHub` · `Wireshark`  
-`Agile / Scrum` · `Bash Scripting`  
-
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00A98F?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ---
 
 ## 📌 Featured Projects
